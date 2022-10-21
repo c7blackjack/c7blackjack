@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Travis Lloyd
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning R, Python and MySQL
-- 💞️ I’m looking to collaborate on projects needing data mining, wrangling and analysis
+- 💯 I love Data Science and Data Analysis
+- 🧑🏻‍💻 I regularly enjoy a cup of coffee with some R, Python and SQL
+- 🤓 Looking to collaborate and expand knowledge
+- 
 - 📫 How to reach me: https://www.linkedin.com/in/travis-lloyd-b121ba133/
 
 <!---
